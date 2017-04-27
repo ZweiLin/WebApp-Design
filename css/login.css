@@ -1,0 +1,63 @@
+body{
+    background-color: #ffffff;
+}
+.login_nav_top .nav{
+    background-color: #d9534f;
+    height: 50px;
+    color: white;
+}
+.login_nav_top span{
+     color: white;
+     line-height: 50px;
+     font-size: 20px;
+     font-weight: normal;
+     margin-left: -10px;
+ }
+.login_nav_top h4{
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: -20px;
+}
+.login_content{
+    padding-top: 60px;
+}
+input{
+    border: none;
+    margin-bottom: 8px;
+    background-color: #eeeeee;
+}
+.login_nav_bottom nav{
+    background-color: white;
+    padding-bottom: 40px;
+}
+.login_nav_bottom img{
+    max-width: 30px;
+}
+.login_nav_bottom h4{
+    color: #d4845d;
+    margin-bottom: 15px;
+}
+.imgBox a{
+    display: inline-block;
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    padding: 5px 5px ;
+    box-sizing: border-box;
+}
+.imgBox li{
+    width: 40px;
+    text-align: center;
+}
+#login_qq{
+    background-color: #46b8da;
+}
+#login_weibo{
+    background-color: #d43f3a;
+    padding-top: 7px;
+}
+#login_wexin{
+    background-color: #5cb85c;
+    padding-top: 7px;
+}
+

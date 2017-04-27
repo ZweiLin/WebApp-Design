@@ -1,0 +1,166 @@
+.home_nav_top .nav{
+    background-color: #d9534f;
+    height: 50px;
+    color: white;
+    font-size: 25px;
+    line-height: 30px;
+    font-family: "Adobe Devanagari";
+}
+.home_nav_top span{
+    color: white;
+    line-height: 50px;
+    font-size: 25px;
+    font-weight: normal;
+    margin-left: -10px;
+}
+#about_box{
+    /*padding-left: 30px;*/
+    /*padding-right: 0;*/
+    padding: 0;
+    float: right;
+    /*text-align: right;*/
+}
+#about_box a{
+    float: right;
+}
+#about_box ul{
+    box-shadow:2px 3px 2px 0px #7a0617;
+    background-color: #b60215;
+    color: white;
+    text-align: center;
+}
+#about_box ul li,#about_box ul li a{
+    width: 100%;
+    color: white;
+    text-align: left;
+}
+.home_nav_top a span{
+    line-height: 32px;
+}
+.home_content{
+    padding-top: 50px;
+    padding-bottom: 57px;
+}
+.home_function .row div{
+    padding: 2% 0;
+    /*border: 1px dotted #959595;*/
+    /*background-color: #dedede;*/
+}
+.home_function span{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+}
+.home_function a{
+    text-decoration: none;
+}
+.home_function h5{
+    text-align: center;
+    margin: 4px 0;
+    color: #000000;
+}
+.home_function  .ch-text{
+    line-height: 50px;
+    font-weight: bold;
+}
+.home_goods .home_list{
+    border-top: 2px dotted #dedede;
+}
+#home_goods_title h4{
+    color: #ff7d22;
+    text-align: center;
+}
+#home_goods_title h4 span{
+    color: #ff7d22;
+}
+#computer,#audio{
+    color: white;
+    text-align: center;
+}
+#computer div{
+    /*border: 1px dotted #b7b7b7;*/
+    /*border-left: hidden;*/
+}
+#computer_tag{
+    color: #46b8da;
+    text-align: left;
+}
+#audio_tag{
+    color: #9244EA;
+    text-align: left;
+    margin-top: 15px;
+}
+#food{
+    color: white;
+    text-align: center;
+}
+#food div{
+    /*border: 1px dotted #b7b7b7;*/
+    /*border-left: hidden;*/
+}
+#food a{
+    box-sizing: border-box;
+}
+#food_tag{
+    color: #E8C04F;
+    text-align: right;
+}
+.nav-tabs
+{
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+.home_nav_bottom .glyphicon{
+     margin: 5px 0;
+    font-size: 25px;
+    color: white;
+}
+.home_nav_bottom .glyphicon+span{
+    height: 25px;
+    line-height: 25px;
+    color: white;
+    display: block;
+    margin-top: -5px;
+}
+.home_nav_bottom .navbar{
+    opacity:0.85;
+    filter:alpha(opacity=85);
+    background-color: #d9534f;
+}
+.carousel img{
+    max-height: 200px;
+}
+input{
+    border: none;
+    margin-bottom: 8px;
+    background-color: #eeeeee;
+}
+.blue{
+    background-color: #46b8da;
+}
+.red{
+    background-color: #d43f3a;
+}
+.green{
+    background-color: #42d34d;
+}
+.yellow{
+    background-color: #e8c04f;
+}
+.purple{
+    background-color: #9244ea;
+}
+.pink{
+    background-color: hotpink;
+}
+.orange{
+    background-color: #f67d0f;
+}
+.darkblue{
+    background-color: #4978da;
+}
